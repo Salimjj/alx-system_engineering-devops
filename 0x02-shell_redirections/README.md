@@ -3,3 +3,4 @@
 2-hellofile script display the users
 3-twofiles script display the contentn of two files
 4-lastlines script display the last 10 lines
+5-firstlines script display the first 10 lines of the file
