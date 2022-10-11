@@ -6,3 +6,4 @@
 5-firstlines script display the first 10 lines of the file
 6-third_line script display the 3 line of the file iacta
 7-file script creat a file with contant in it
+8-cwd_state script creat a file with a content from a command
