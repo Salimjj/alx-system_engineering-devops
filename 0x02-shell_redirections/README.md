@@ -8,3 +8,4 @@
 7-file script creat a file with contant in it
 8-cwd_state script creat a file with a content from a command
 9-duplicate_last_line script duplicate last line of the file
+10-no_more_js  script deletes all the js file sub folders
