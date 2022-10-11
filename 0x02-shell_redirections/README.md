@@ -7,3 +7,4 @@
 6-third_line script display the 3 line of the file iacta
 7-file script creat a file with contant in it
 8-cwd_state script creat a file with a content from a command
+9-duplicate_last_line script duplicate last line of the file
