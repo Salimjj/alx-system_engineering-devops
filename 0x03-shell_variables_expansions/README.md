@@ -7,3 +7,4 @@
 6-create_local_variable script create a new local variable
 7-create_global_variable script create a global variable
 8-true_knowledge script add tow numbers
+9-divide_and_rule script divid two variables values
