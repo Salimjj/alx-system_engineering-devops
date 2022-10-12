@@ -2,3 +2,4 @@
 1-hello_you script print hello user
 2-path script add dir at the end
 3-paths script count the path dir
+4-global_variables script print the global variables
