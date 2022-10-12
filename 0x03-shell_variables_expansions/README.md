@@ -3,3 +3,4 @@
 2-path script add dir at the end
 3-paths script count the path dir
 4-global_variables script print the global variables
+5-local_variables script print the local variables
