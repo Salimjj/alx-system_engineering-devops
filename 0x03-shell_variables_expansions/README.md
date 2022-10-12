@@ -5,3 +5,4 @@
 4-global_variables script print the global variables
 5-local_variables script print the local variables
 6-create_local_variable script create a new local variable
+7-create_global_variable script create a global variable
